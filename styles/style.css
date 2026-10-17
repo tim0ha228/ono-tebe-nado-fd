@@ -346,7 +346,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 48px;
     list-style-type: none;
-}
+} 
+
 
 .footer__social-icon {
   height:48px;
